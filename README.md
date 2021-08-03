@@ -6,7 +6,7 @@
 <p align="center">
   <h3 align="center">✅✦#Social (*≧∀≦*)✦</h3>
   <p align="center"> 
-    <a href="https://git-scm.com/" target="_blank">
+    <a href="https://github.com/kimbuckgur" target="_blank">
       <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="50" height="50"/> 
     </a> 
     <a>
